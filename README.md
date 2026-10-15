@@ -1,16 +1,108 @@
-# React + Vite
+# Anand Patel | Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my projects, technical skills, education, certifications, and experience with technology.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio is built to present my technical background and projects in a clean, responsive, and professional format. It provides an overview of my skills, learning journey, and work in software development and data analytics.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Hero Section** — Introduction and portfolio overview.
+- **About Me** — Background, interests, and career goals.
+- **Skills** — Overview of technical skills and tools.
+- **Projects** — Selected projects with descriptions and relevant links.
+- **Education** — Academic background.
+- **Certificates** — Courses and certifications.
+- **Contact** — Ways to connect with me.
+- **Responsive Design** — Layout designed for different screen sizes.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — Building reusable UI components.
+- **Vite** — Development server and build tool.
+- **JavaScript** — Application logic.
+- **HTML5** — Page structure.
+- **CSS3** — Styling and responsive layouts.
+- **Git & GitHub** — Version control and source code hosting.
+
+## Projects Featured
+
+### Live Climate Impact Dashboard
+A climate dashboard project focused on weather trends, air quality, and forecast insights.
+
+- Live Demo: https://live-climate-impact-dashboard-ruxmeigczzusoeyq2ck9qf.streamlit.app/
+
+### E-Commerce Sales & Customer Analytics
+A data analytics project focused on exploring sales performance, delivery, and customer satisfaction.
+
+### ResumeForge
+A resume-focused application featuring resume screening and job-description matching capabilities.
+
+### Krishi Sakhi
+An agriculture-focused project designed to help farmers access useful farming information and guidance.
+
+*See the Projects section of the portfolio for available details and links.*
+
+## Run Locally
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/)
+- npm (included with Node.js)
+
+### Installation
+
+1. Clone the repository:
+
+   
+   git clone https://github.com/anandpatel-dev/AP_Portfolio.git
+   
+
+2. Navigate into the project folder:
+
+   
+   cd AP_Portfolio
+   
+
+3. Install dependencies:
+
+   npm install
+   
+
+4. Start the development server:
+
+   
+   npm run dev
+   
+
+5. Open the local URL shown in your terminal.
+
+## Build for Production
+
+To create a production build, run:
+
+
+npm run build
+
+
+To preview the production build locally:
+
+npm run preview
+
+
+## Source Code
+
+GitHub Repository: https://github.com/anandpatel-dev/AP_Portfolio
+
+## Author
+
+**Anand Patel**
+
+Computer Science & Design | Aspiring Data Analyst & Developer
+
+- GitHub: https://github.com/anandpatel-dev
+
+
+
+*Thanks for visiting my portfolio!*
