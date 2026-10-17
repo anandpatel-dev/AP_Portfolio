@@ -183,29 +183,52 @@ const portfolioData = {
     },
   ],
 
-  certifications: [
-    {
-      name: "Python Essentials",
-      issuer: "Cisco",
-      date: "",
-      credentialUrl: "",
-      verified: false,
-    },
-    {
-      name: "Introduction to Data Science",
-      issuer: "Cisco",
-      date: "",
-      credentialUrl: "",
-      verified: false,
-    },
-    {
-      name: "Agile Methodology Course",
-      issuer: "",
-      date: "",
-      credentialUrl: "",
-      verified: false,
-    },
-  ],
+  
+certifications: [
+  {
+    name: "Introduction to Data Science",
+    issuer: "Cisco Networking Academy",
+    date: "Mar 2025",
+    credentialUrl: "/certificates/Data-Science.pdf",
+    verified: false,
+  },
+  {
+    name: "Programming Essentials in Python",
+    issuer: "Cisco Networking Academy",
+    date: "Jan 2024",
+    credentialUrl: "/certificates/Python-Essentials.pdf",
+    verified: false,
+  },
+  {
+    name: "Agile Software Development",
+    issuer: "University of Minnesota · Coursera",
+    date: "May 2025",
+    credentialUrl: "/certificates/Agile-Coursera.pdf",
+    verified: false,
+  },
+  {
+    name: "Salesforce AI Agent Developer — LastMile Program",
+    issuer: "SmartBridge Educational Services",
+    date: "Dec 2025",
+    credentialUrl: "/certificates/Salesforce-AI-Agent.pdf",
+    verified: false,
+  },
+  {
+    name: "CCNA: Introduction to Networks",
+    issuer: "Cisco Networking Academy · GGITS",
+    date: "May 2025",
+    credentialUrl: "/certificates/CCNA.pdf",
+    verified: false,
+  },
+  {
+    name: "Linux Essentials",
+    issuer: "Cisco Networking Academy · GGITS",
+    date: "Dec 2024",
+    credentialUrl: "/certificates/Linux-Essentials.pdf",
+    verified: false,
+  },
+],
+
 
   education: [
     {
